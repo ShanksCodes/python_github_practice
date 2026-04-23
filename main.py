@@ -3,5 +3,5 @@ def print_hi(name):
 
 
 if __name__ == '__main__':
-    print_hi('Hello World 1')
+    print_hi('Hello World 2')
 
