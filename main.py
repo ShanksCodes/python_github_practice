@@ -8,5 +8,9 @@ def branch_feature_1():
     print("Branch feature 1")
 
 
+def branch_feature_2():
+    print("Branch feature 2")
+
+
 if __name__ == '__main__':
     print_hi('Hello from branch B1')
